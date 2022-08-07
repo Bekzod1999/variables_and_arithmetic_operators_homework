@@ -7,3 +7,13 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'.  a - b + c
+
+a = 12 
+b = 4
+c = 1
+
+answer = a - (b + c)  # This is according to the laws of mathematics
+#or
+#answer = a - b + c
+
+print(answer)
