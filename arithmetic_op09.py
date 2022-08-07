@@ -8,4 +8,13 @@
 
 # Create a variable called 'answer'.
 
-# Find the expression value assign to 'answer'. a+b - cd .
+# Find the expression value assign to 'answer'. a+b - cd . I think, the multiplication sign is left out there, so I putted the multiplication sign there
+
+a = 8
+b = 3
+c = 2 
+d = 4
+
+answer = a + b - c*d 
+
+print(answer)
